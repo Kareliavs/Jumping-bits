@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1343247345 source:c:\users\plaz vea\desktop\maniquier\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432202 c:\users\plaz vea\desktop\maniquier\inicia.h
+
+1416607726 source:c:\users\plaz vea\desktop\maniquier\main.cpp
+	<allegro.h>
+	"inicia.h"
+	<iostream>
+
